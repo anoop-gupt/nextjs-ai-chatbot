@@ -1,0 +1,5 @@
+{
+  "buildCommand": "vercel lint && vercel type-check && vercel test && vercel build",
+  "devCommand": "next dev",
+  "installCommand": "npm install"
+}
