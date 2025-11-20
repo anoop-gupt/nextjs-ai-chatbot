@@ -1,4 +1,0 @@
-{
-  "buildCommand": "vercel lint && vercel type-check && vercel test && vercel build"
-  
-}
